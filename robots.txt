@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gabbybui.github.io/sitemap.xml
